@@ -1,11 +1,11 @@
 # МОСиП
 Задания:  
-  1. Встроенные типы:  
-     1. Cтроки:  
+   1. Встроенные типы:  
+      1. Cтроки:  
          - [Задание 5](./lib/src/built-in_types/strings.dart#L5)
          - [Задание 7](./lib/src/built-in_types/strings.dart#L12)
          - [Задание 8](./lib/src/built-in_types/strings.dart#L19)
-     2. Списки:
+      2. Списки:
          - [Задание 4](./lib/src/built-in_types/lists.dart#L5)
          - [Задание 5](./lib/src/built-in_types/lists.dart#L19)
          - [Задание 6](./lib/src/built-in_types/lists.dart#L31)
@@ -19,16 +19,16 @@
          - [Задание 3](./lib/src/built-in_types/maps.dart#L5)
          - [Задание 4](./lib/src/built-in_types/maps.dart#L24)
          - [Задание 9](./lib/src/built-in_types/maps.dart#L45)
-  2. Управляющие 
+   2. Управляющие 
 конструкции, арифметические операции и шаблоны:  
-     1. Шаблоны:  
+      1. Шаблоны:  
          - [Задание 7](./lib/src/lab2/patterns.dart#L2)
          - [Задание 8](./lib/src/lab2/patterns.dart#L18)
          - [Задание 11](./lib/src/lab2/patterns.dart#L33)
          - [Задание 13](./lib/src/lab2/patterns.dart#L40)
          - [Задание 15](./lib/src/lab2/patterns.dart#L47)
-  3. ООП:  
-     1. [Задание 2](./lib/src/OOP/task2.dart)
-     2. [Задание 9](./lib/src/OOP/task9.dart)
+   3. ООП:  
+      1. [Задание 2](./lib/src/OOP/task2.dart)
+      2. [Задание 9](./lib/src/OOP/task9.dart)
          
          
