@@ -23,25 +23,20 @@ class Student with ShowMixin {
 
 class GroupOfStudents with ShowMixin {
   List<Student> _group = [];
-  double lowerGPALimit = 2;
-  double higherGPALimit = 4;
+  double _lowerGPALimit = 2;
+  double _higherGPALimit = 4;
 
-  static final GroupOfStudents _instance = GroupOfStudents._internal();
-
-  GroupOfStudents._internal();
-
-  factory GroupOfStudents() {
-    return _instance;
-  }
+  double get lowerGPALimit => this._lowerGPALimit;
+  double get higherGPALimit => this._higherGPALimit;
 
   bool _checkGPA(Student student) {
-    return student.GPA >= this.lowerGPALimit && student.GPA <= this.higherGPALimit;
+    return student.GPA >= this._lowerGPALimit && student.GPA <= this._higherGPALimit;
   }
 
   void add(Student student) {
     this._checkGPA(student) ? 
       this._group.add(student) : 
-      print("Student's GPA must be in [$lowerGPALimit, $higherGPALimit]");
+      print("Student's GPA must be in [$_lowerGPALimit, $_higherGPALimit]");
   }
 
   Student? findByFullName(String fullName) {
