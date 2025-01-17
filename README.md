@@ -19,3 +19,13 @@
          - [Задание 3](./lib/src/built-in_types/maps.dart#L5)
          - [Задание 4](./lib/src/built-in_types/maps.dart#L24)
          - [Задание 9](./lib/src/built-in_types/maps.dart#L45)
+  2. Управляющие 
+конструкции, арифметические операции и шаблоны:  
+     1. Шаблоны:  
+         - [Задание 7](./lib/src/lab2/patterns.dart#L2)
+         - [Задание 8](./lib/src/lab2/patterns.dart#L18)
+         - [Задание 11](./lib/src/lab2/patterns.dart#L33)
+         - [Задание 13](./lib/src/lab2/patterns.dart#L40)
+         - [Задание 15](./lib/src/lab2/patterns.dart#L47)
+         
+         
