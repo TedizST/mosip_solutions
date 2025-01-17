@@ -27,5 +27,8 @@
          - [Задание 11](./lib/src/lab2/patterns.dart#L33)
          - [Задание 13](./lib/src/lab2/patterns.dart#L40)
          - [Задание 15](./lib/src/lab2/patterns.dart#L47)
+  3. ООП:  
+     1. [Задание 2](./lib/src/OOP/task2.dart)
+     2. [Задание 9](./lib/src/OOP/task9.dart)
          
          
